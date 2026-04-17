@@ -124,10 +124,8 @@ xpm_main() {
   ln -sf button-active.xpm stick-toggled-prelight.xpm
   ln -sf button-active.xpm stick-toggled-pressed.xpm
   ln -sf button-inactive.xpm stick-toggled-inactive.xpm
-  ln -sf button-active.xpm menu-active.xpm
-  ln -sf button-active.xpm menu-prelight.xpm
-  ln -sf button-active.xpm menu-pressed.xpm
-  ln -sf button-inactive.xpm menu-inactive.xpm
+  ln -sf menu-active.xpm menu-prelight.xpm
+  ln -sf menu-active.xpm menu-pressed.xpm
   ln -sf title-active.xpm title-1-active.xpm
   ln -sf title-active.xpm title-2-active.xpm
   ln -sf title-active.xpm title-3-active.xpm

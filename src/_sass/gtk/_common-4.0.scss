@@ -1553,7 +1553,7 @@ window.devel {
     background-position: center;
     background-repeat: no-repeat;
     background-size: 16px 16px;
-    color: $titlebar-text;
+    color: transparent; 
 
     > image {
       opacity: 0;
